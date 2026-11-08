@@ -83,45 +83,6 @@ const nazish = {
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-## ⭐ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🥗 BiteCount</h3>
-      Full stack nutrition tracker to log meals and track calories and macros.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧾 AI Job Tracker <sub>(in progress)</sub></h3>
-      An AI-assisted application tracker that helps organize and improve the job search.<br/><br/>
-      <img src="https://img.shields.io/badge/MERN-7c3aed?style=flat-square" />
-      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mdnazishpatel/quranapp">📖 QuranApp</a></h3>
-      A clean, distraction-free Quran reader built for readability.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mdnazishpatel/weather-react">🌦️ Weather App</a></h3>
-      Real-time weather updates powered by the OpenWeather API.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/mdnazishpatel?tab=repositories"><b>See all repositories →</b></a>
-</p>
-
----
 
 <!-- ===================== STATS ===================== -->
 ## 📊 GitHub Activity
