@@ -140,20 +140,6 @@ const nazish = {
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdnazishpatel&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
 </p>
 
-<h3 align="center">🟩 Contributions</h3>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2ea043/mdnazishpatel" alt="mdnazishpatel's contribution graph" />
-</p>
-
-<p align="center">
-  <b>View by year:</b>
-  <a href="https://github.com/mdnazishpatel?tab=overview&from=2026-01-01&to=2026-12-31">2026</a> ·
-  <a href="https://github.com/mdnazishpatel?tab=overview&from=2025-01-01&to=2025-12-31">2025</a> ·
-  <a href="https://github.com/mdnazishpatel?tab=overview&from=2024-01-01&to=2024-12-31">2024</a> ·
-  <a href="https://github.com/mdnazishpatel?tab=overview&from=2023-01-01&to=2023-12-31">2023</a>
-</p>
-
 ---
 
 <!-- ===================== COLLABORATE ===================== -->
